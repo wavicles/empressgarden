@@ -1,27 +1,48 @@
 ---
 layout: post
-title:  "Let's test spoilers"
+title:  "Shirish - Lebbeck"
 author: sal
 categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+image: assets/images/tree2a.jpg
 featured: true
 hidden: true
 ---
 
-Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
+Albizia lebbeck
+Scientific classification: 
+Kingdom : 	            Plantae 
+Division :	            Tracheophyta             
+Class : 		            Magnoliopsida
+Order :		            Fabales
+Family : 	            Mimosaceae
+Genus : 	            Albizia 
+Species :                         Albizia lebbeck
+Scientific Name :          Albizia lebbeck (L.) Benth.
 
-As in many similar films, such as Jacob's Ladder (1990), Soul Survivors (2001), and The Butterfly Effect (2004), events and people were thoroughly distorted and confused because the protagonist was at the point of death. The tagline was misleading:
+Common Names:
+English : 	lebbeck, lebbek tree, flea tree, frywood, koko and woman's tongue tree.
+Hindi: 		Saras (सरस)
+Kannada:           ಸಿರೀಸ( sirisa)
+Marathi:	शिरस (shiras), शिरीष (shirish)
 
-"When You Don't Have a Memory, How Can You Remember Who to Trust?"
+Description:
+1. Habit and Habitat: Terrestrial, grows at an altitude of 750 m above the sea level6 and in fertile and semi-fertile soil. Height up to 9-10mts. Perennial, which can range from dark green to greyish green in colour. 
+2. Distribution: it is  native to Indomalaya, New Guinea and Northern Australia and widely cultivated and naturalised in other tropical and subtropical regions
+3. Morphology:
+ Leaf: Bipinnate,7.5-15cms long, with 1-4 pairs of pinnae, each pinna with 6-18 leaflets. 
+Inflorescence: Inflorescence is Heads
+Flower: Flowers mimosa-like, in showy, rounded clusters near stem tips, 5-6 cm across, cream or yellowish-white.White, fragrant, heads umbellate, from the upper leaf axils, solitary or fasciculate.
+Filaments exserted, connate below into a short tube.Flowers bisexual,
+Androecium: each flower with numerous long stamens.
+Gynoecium: ovary subsessile, glabrous, style 2.5 cm, filiform; stigma minute.
+Fruit:.Pods 10 - 25 cm long, 3 - 5 cm broad, thin, flat, straight, straw - coloured when old, glabrous and shining.
+Seeds : 4 - 12, spherical or slightly reniform, smooth, glabrous, yellowish brown.
+Flowering and Fruiting time : July - Oct ; Oct - Mar
+4. Propagation: Through seeds.
+5. Importance: 
+The bark and seeds are used as astringent.
+The flowers are considered cooling and are externally applied in boils, eruptions, etc.
+The leaves, seeds etc. are used in opthalmia.
+The timber is valued for a variety of purposes.
 
-The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe) awakening in a <span class="spoiler"> hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident -- but he had been revived ("You're as good as new").</span> Dr. Newman: "Simon, this is the 29th of July. The year is 2002. And your wife, whose name is Anna, is waiting outside." 
-
-(The doctor left off four crucial additional words, revealed in the film's ending.) (Spoiler: Simon had died and was not resuscitated!).
-
-A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): <span class="spoiler">Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.</span>
-
-#### So how do we do spoilers?
-
-```html
-<span class="spoiler">My hidden paragraph here.</span>
-```
+6. Location: in front of new building,enterance gate garden,opp to dining hall (beside library).
