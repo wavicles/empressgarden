@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project : Trees of GSS
+title: Project - Trees of GSS
 permalink: /project
 comments: true
 ---
