@@ -16,7 +16,9 @@ Although many trees and plants are noticed daily but they cannot identify them.<
 		
 So there has to be an easy way of identifying them. Voila, here comes the role of modern technology ie Computer. 
 Computers are used everywhere for various purposes like shopping, economic, business, social network etc.. So why not use the technology for nature lovers, so we thought of tagging the trees with QR codes. So when we scan the code tagged on the tree we get its full information like common name, vernacular names, scientific name, its description, its significance on the website.
-So it’s like you ask the tree and it tell about itself. So this project can help students, teachers, visitors, public, who walk in beautiful campus of G.S.S college.  
+So it’s like you ask the tree and it tell about itself.  
+
+This project can help students, teachers, visitors, public, who walk in beautiful campus of G.S.S college.  
 
 
 

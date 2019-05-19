@@ -30,7 +30,7 @@ Tree species were classified scientifically using the G.Bentham and J.D.Hooker s
 Species identification was confirmed by referring available regional field guides like  … ” TREES OF PUNE” and “AVENUE TREES”,” FLOWERS OF SAHYADRI”.
 Discrepancies in the identification of trees was resolved, by following systemic classification process based on the morphological characteristics. 
 
-A detailed document of Methodologies follwed for this project is [***HERE***]()  
+A detailed document of **Methodologies** follwed for this project is [***HERE***](https://github.com/treesofgss/treesofgss.github.io/raw/master/methodologies.pdf)  
 
 <div class="col-md-4">
 
