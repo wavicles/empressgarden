@@ -6,7 +6,7 @@ comments: true
 ---
 
 
-#Aim and Objectives
+# Aim and Objectives
 
 **Aim**  
 
@@ -18,7 +18,7 @@ Scientific Assessment of tree diversity in the GSS college campus using standard
 Creating an open source web portal using smart techniques for mass awareness and outreach.
 Strategize for concept popularization and dissemination.
 
-#Methodology
+# Methodology
 
 A detailed assessment of all tree species in the GSS College campus was undertaken in the beginning of the project by surveying the campus. The trees are distributed across 34 acre area. 
 Campus was divided into small regions for efficient documentation process. 
