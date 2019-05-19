@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project : Trees of GSS
-permalink: /about
+permalink: /project
 comments: true
 ---
 
