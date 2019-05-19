@@ -10,12 +10,11 @@ comments: true
 
 <p>This is a directory of the tree species that you are likely to see in GSS College, Belgaum.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
-
-<p>Please, read the docs <a href="https://">here</a>.</p>
-
-<h4>Questions or bug reports?</h4>
+People while walking in the avenue, gardens, parks,  see the beauty of nature, the trees, plants, animals, flower, fruits etc. And wonder what to call them, although many trees and plants are noticed daily but they cannot identify them.
+		
+		
+So there has to be an easy way of identifying them. Voila, here comes the role of modern technology ie Computer. Computers are used everywhere for various purposes like shopping, economic, business, social network etc.. So why not use the technology for nature lovers, so we thought of tagging the trees with QR codes. So when we scan the code tagged on the tree we get its full information like common name, vernacular names, scientific name, its description, its significance on the website.
+So it’s like you ask the tree and it tell about itself. So this project can help students, teachers, visitors, public, who walk in beautiful campus of G.S.S college. 
 
 <p>Head over to our <a href="https://github.com/makerspacebelgaum/treesofgss">Github repository</a>!</p>
 
