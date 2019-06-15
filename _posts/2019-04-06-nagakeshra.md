@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Naga Keshra - Iron Wood Tree"
+author: munzareen
+categories: [ Angiosperm, Calophyllaceae ]
+image: assets/images/nagakeshra1.jpg
+beforetoc: "Mesua ferrea"
+toc: true
+---
+
+**Scientific Classification**  
+>Kingdom:			Plantae  
+>Division:			Angiospermae  
+>Class:				Dicotyledonae  
+>Order:				Malphigiales  
+>Family:			Calophyllaceae  
+>Genus:				*Mesua*  
+>Species:			*M.ferrea*  
+>Scientific Name:	*Mesua ferrea* L.  
+
+**Common Names:**  
+**English:**	Iron wood tree.  
+**Hindi:**  	Naga-keshra.  
+**Kannada:**	Naga sampige.  
+**Marathi:**	Thorlachampa.  
+
+**Description:**  
+1. **Habit and Habitat:** A large tree upto 35mt tall. Terrestrial habitat.  
+2. **Distribution:** Plant is commonly distributed in mid-hills of Eastern Himalayas. Plant is also distributed in Nepal eastwards, in north-eastern India, Deccan Peninsula and in the Andaman Islands. Smooth and ash reddish brown in colour.  Wood is red, hard and heavy.  
+3. **Morphology:**  
+**Leaves:** 8.0-15.0 cm long, oblong-lanceolate, acute, red when young, afterwards shining above, glaucous, rounded at the base and with close inconspicuous veins. Petioles are short.  
+**Inflorescence:** Axillary.  
+**Flower:** fragrant, 2 to 10 cm across axillary, solitary or sometimes in pairs. Both sepals and petals are 4 in number.  
+**Androecium:** indefinite, golden yellow, much shorter than the petals.  
+**Gynoecium:** Style is twice as long as the stamens. Stigma is peltate.  
+**Fruits:** are ovoid, 2.5 – 6.4 cm long with a conical point, woody, greenish in colour surrounded by enlarged sepals.  
+**Seeds:** are 1 – 4 in number, chestnut-brown and flattened on Infloresce.  
+4. **Propagation:** Seeds, Vegetative propagation root cuttings.  
+5. **Importance:**  
+Wood is used for timber. Seeds and dried flowers are used for its good fragrance. Roots, bark, flowers and leaves used in Ayurveda, Sidha and Unani  and folk medicines. Cultivated as an ornamental plant. 
+6. **Location:** Botanical Garden.  

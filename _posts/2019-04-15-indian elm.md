@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Tapsi - Indian Elm Tree"
+author: tehsin
+categories: [ Angiosperm, Ulmaceae ]
+image: assets/images/indianelm1.jpg
+beforetoc: "Holoptelea integrifolia"
+toc: true
+---
+
+**Scientific Classification**  
+>Kingdom:			Plantae  
+>Division:			Magnoliophyta  
+>Class:				Magnoliopsida  
+>Order:				Rosales  
+>Family:			Ulmaceae  
+>Genus:				*Holoptelea*  
+>Species:			*H.integrifolia*  
+>Scientific Name:	*Holoptelea integrifolia* (Roxb.)Planch.  
+
+**Common Names:**  
+**English:** 		      Indian Elm, Entire-Leaved Elm Tree, Jungle Cork Tree, South Indian Elm Tree.  
+**Hindi:**			      Chilbil, Kanju, Papri.  
+**Kannada:**		      Thavasai, Tapsi.  
+**Marathi:** 		      Ainasadada, Vavala.  
+
+**Description:**  
+1. **Habit and Habitat:**  Large deciduous trees, to 25 m high, bark 6-8 mm thick, whitish-grey, smooth; blaze yellowish-grey, streaked with light brown; branchlets pubescent.  
+2. **Distribution:**  Global Distribution.  
+3. **Morphology:**  
+**Leaves:**  Leaves simple, alternate; stipules lateral, scarious; petiole 5-10 mm, stout, pubescent; lamina 6-12.5 x 2.5-6.5 cm, ovate-oblong, ovate or elliptic-ovate, base rounded or subcordate, apex acuminate, margin entire, distantly serrate when young, coriaceous, glabrous above, appressed pubescent punctate below; lateral nerves 6-9 pairs, pinnate, prominent, intercostae reticulate, prominent.  
+**Inflorescence:**   in axillary fascicles.  
+**Flowers:**  Flowers polygamous, appear before leaves, 5-8 mm across, greenish-purple, tepals 4 or 5, free.  
+**Androecium:**   anthers pubescent.  
+**Gynoecium:**  female flowers with longer pedicels; ovary superior, compressed, long stipitate, 2-winged, 1-celled, ovule 1; style 2 fid.  
+**Fruit:**  Fruit a samara, 3 cm across, orbicular, wings nerved, glabrous.  
+**Seeds:**  seeds one.  
+**Flowering and fruiting seasons:**  January-May.  
+4. **Propagation:** Through seeds.  
+5. **Importance:**  
+The unripe fruit is eaten. The bark and leaves are used for treating oedema, diabetes, leprosy and other skin diseases, intestinal disorders, piles and sprue. The mucilaginous bark is boiled then the juice is squeezed out and applied to rheumatic swellings; the exhausted bark is then powdered and applied over the parts covered by the sticky juice. The seed and a paste of the stem bark are used in treating ringworm. The wood is a light, yellowish grey; there is no distinction between the sapwood and the heartwood. The wood is strong and moderately hard. It is easy to work and capable of a beautiful polished finish. Of little importance, though it is used locally for purposes such as construction, making carts and for carving statues etc. It’s most common use is for making matches, boxes and the frames of brushes.  
+6. **Location:**  Main entrance garden, behind Gymkhana, Sports ground.  
