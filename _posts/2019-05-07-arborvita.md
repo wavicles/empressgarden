@@ -2,7 +2,7 @@
 layout: post
 title:  "arborvita - chinese arborvita"
 author: Dundappa
-categories: [ Gymnospermae, Cupressaceae ]
+categories: [ Gymnosperm, Cupressaceae ]
 image: assets/images/arborvita1.jpg
 beforetoc: "Platycladus orientalis "
 toc: true
@@ -10,7 +10,7 @@ toc: true
 
 **Scientific Classification**  
 >Kingdom:			Plantae  
->Division:			Pinophyta  
+>Division:			Gymnosperm  
 >Class:				Pinopsida  
 >Order:				Pinales  
 >Family:			Cupressaceae  

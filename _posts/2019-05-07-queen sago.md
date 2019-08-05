@@ -2,8 +2,8 @@
 layout: post
 title:  "queen sago - sago palm"
 author: naveen
-categories: [ gymnospermae, Cycadaceae ]
-image: assets/images/queeen sago1.jpg
+categories: [ Gymnosperm, Cycadaceae ]
+image: assets/images/queen sago1.jpg
 beforetoc: "Cycas circinalis"
 toc: true
 ---

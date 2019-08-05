@@ -12,7 +12,7 @@ toc: true
 >Kingdom:			Plantae  
 >Division:			Angiospermae  
 >Class:				Dicotyledonae  
->Order:				Scrophulariales  
+>Order:				Lamiales  
 >Family:			Bignoniaceae  
 >Genus:				*Tabebuia*  
 >Species:			*T.impetiginosa*  

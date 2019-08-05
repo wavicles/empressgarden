@@ -2,7 +2,7 @@
 layout: post
 title:  "Norfolk Island pine - christmas tree"
 author: Dundappa
-categories: [ gymnospermae, Araucariaceae ]
+categories: [ Gymnosperm, Araucariaceae ]
 image: assets/images/christmas tree1.jpg
 beforetoc: "Araucaria heterophylla "
 toc: true
@@ -10,7 +10,7 @@ toc: true
 
 **Scientific Classification**  
 >Kingdom:			Plantae  
->Division:			Pinophyta  
+>Division:			Gymnosperm  
 >Class:				Pinopsida  
 >Order:				Pinales  
 >Family:			Araucariaceae  

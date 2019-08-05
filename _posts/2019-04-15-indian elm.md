@@ -3,7 +3,7 @@ layout: post
 title:  "Tapsi - Indian Elm Tree"
 author: tehsin
 categories: [ Angiosperm, Ulmaceae ]
-image: assets/images/indianelm1.jpg
+image: assets/images/indian elm1.jpg
 beforetoc: "Holoptelea integrifolia"
 toc: true
 ---
