@@ -1,7 +1,7 @@
 # Site
 name: "Trees of GSS"
 title: "Trees of GSS"
-description: "Directory of Tree species at GSS College, Belgaum."
+description: "Directory of Tree Species at GSS College, Belgaum."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /treesofgss.github.io
