@@ -1,4 +1,4 @@
-# Trees of GSS 
+# Trees of Empress Botanical Garden
 
 
 ### Copyright
