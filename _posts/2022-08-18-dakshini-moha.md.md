@@ -21,6 +21,7 @@ toc: true
 **Common Names:**  
 **English:**             Mowra butter tree.  
 **Hindi:**               Mahua.  
+**Marathi**				Dakshini Moha
 **Kannada:**             Ippe.  
 
 **Description:**  
@@ -38,4 +39,4 @@ toc: true
 4. **Propagation:** Direct sowing of seeds.  
 5. **Importance:**  
 Very useful tree. The flowers are distilled for the preparation of country liquor. The seeds are crushed to yield an oil called "vegetable butter" which is extensively used for soapmaking and also edible, and used for adulterating ghee. The oil-cake is used to poison fish.  
-6. **Location:** Botanical Garden.  
+6. **Location:**   
