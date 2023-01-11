@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mari - Fish Tail Palm"
+title:  "Bherli Maad - Fish Tail Palm"
 author: munzareen
 categories: [ Angiosperm, Arecaceae ]
 image: assets/images/fishtail1.jpg

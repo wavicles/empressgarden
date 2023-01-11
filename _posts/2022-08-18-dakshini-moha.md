@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mahua - Mowra Tree"
+title:  "Dakshini Moha, Mahua"
 author: munzareen
 categories: [ Angiosperm, Sapotaceae ]
 image: assets/images/mahua1.jpg
