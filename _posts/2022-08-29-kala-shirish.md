@@ -8,16 +8,15 @@ featured: true
 hidden: true
 ---
 
-Albizia lebbeck
-Scientific classification: 
-Kingdom : 	            Plantae 
-Division :	            Tracheophyta             
-Class : 		        Magnoliopsida
-Order :		            Fabales
-Family : 	            Mimosaceae
-Genus : 	            Albizia 
-Species :                         Albizia lebbeck
-Scientific Name :          Albizia lebbeck (L.) Benth.
+**Scientific Classification**  
+>Kingdom:			Plantae  
+>Division:			Tracheophytes  
+>Class:				Magnolipsida  
+>Order :		        Fabales
+>Family : 	            Mimosaceae
+>Genus : 	            Albizia 
+>Species :              Albizia lebbeck
+>Scientific Name :      Albizia lebbeck (L.) Benth.
 
 Common Names:
 English : 	lebbeck, lebbek tree, flea tree, frywood, koko and woman's tongue tree.
