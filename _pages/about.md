@@ -29,7 +29,7 @@ comments: true
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Projected by </h5>
+<h5>Project supported by </h5>
 <P> <a target="_blank" href="http://makerspacebgm.in/">Makerspace Belgaum</a></p>
 
 <p>Website content and design by <a target="_blank" href="http://www.gnovi.in/sample-page/">Praveen Patil</a> </p>
