@@ -5,7 +5,7 @@ author:
 categories: [ Angiosperm , 	Fabaceae]
 image: assets/images/vilayati1.jpg
 beforetoc: "Brownea coccinea"
-featured: true
+featured:
 toc: true
 ---
   
