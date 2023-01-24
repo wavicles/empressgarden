@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Empress Botanical Garden
+title:
 permalink: /about
 comments: true
 ---
@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-	<h1>Empress Botanical Garden, a green paradise in the heart of Pune </h1>
+	<h3>Empress Botanical Garden, a green paradise in the heart of Pune </h3>
 
 		<p>Empress Botanical Garden, a green paradise in the heart of Pune is a 39 acre bio-diverse expanse situated near Pune racecourse. A rare & towering trees with dense green foliage, giant climbers is a green heritage site not only to this city but for the state of Maharashtra. It is an institution of living collection of plants, a centre of public education, major recreational place for the citizens and most of all, conserve Pune’s natural environment & biodiversity for the generations to come.
 
@@ -29,9 +29,10 @@ comments: true
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Join Us </h5>
+<h5>Projected by </h5>
+<P> <a target="_blank" href="http://makerspacebgm.in/">Makerspace Belgaum</a></p>
 
-<p>Website content and design by <a target="_blank" href="https://github.com/wavicles">Praveen Patil</a> </p>
+<p>Website content and design by <a target="_blank" href="http://www.gnovi.in/sample-page/">Praveen Patil</a> </p>
 
 </div>
 </div>
