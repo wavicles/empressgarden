@@ -2,7 +2,7 @@
 layout: post
 title:  "Shirish - Lebbeck"
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [ Jekyll, Fabaceae ]
 image: assets/images/tree2a.jpg
 featured: true
 hidden: true
@@ -13,7 +13,7 @@ hidden: true
 >Division:			Tracheophytes  
 >Class:				Magnolipsida  
 >Order :		        Fabales
->Family : 	            Mimosaceae
+>Family : 	            Fabaceae
 >Genus : 	            Albizia 
 >Species :              Albizia lebbeck
 >Scientific Name :      Albizia lebbeck (L.) Benth.
