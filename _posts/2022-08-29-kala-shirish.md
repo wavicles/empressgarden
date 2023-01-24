@@ -4,7 +4,7 @@ title:  "Shirish - Lebbeck"
 author: sal
 categories: [ Jekyll, Fabaceae ]
 image: assets/images/tree2a.jpg
-featured: true
+featured:
 hidden: true
 ---
 
