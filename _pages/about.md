@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-	<h3>Empress Botanical Garden, a green paradise in the heart of Pune </h3>
+	<h4>Empress Botanical Garden, a green paradise in the heart of Pune </h4>
 
 		<p>Empress Botanical Garden, a green paradise in the heart of Pune is a 39 acre bio-diverse expanse situated near Pune racecourse. A rare & towering trees with dense green foliage, giant climbers is a green heritage site not only to this city but for the state of Maharashtra. It is an institution of living collection of plants, a centre of public education, major recreational place for the citizens and most of all, conserve Pune’s natural environment & biodiversity for the generations to come.
 
