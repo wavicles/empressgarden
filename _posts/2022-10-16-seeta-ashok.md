@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ashoka Tree"
+title:  "Seeta Ashok, Ashoka Tree"
 author: 
 categories: [ Jekyll, tutorial ]
 image: assets/images/tree1a.jpg
