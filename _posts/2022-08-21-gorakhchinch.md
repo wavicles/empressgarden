@@ -5,7 +5,7 @@ author:
 categories: [ Angiosperm , Malvaceae]
 image: assets/images/gorakhchinch1.jpg
 beforetoc: "Adansonia digitata"
-featured: true
+featured:
 toc: true
 ---
   
