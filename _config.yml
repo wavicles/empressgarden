@@ -1,7 +1,7 @@
 # Site
 name: "Trees of Empress Botanical Garden"
 title: "Empress Botanical Garden"
-description: "Directory of Tree Species at Empress Botanical Garden, Pune."
+description: "QR Code Enabled Directory of Tree Species at Empress Botanical Garden, Pune."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -17,10 +17,10 @@ authors:
     name: Praveen
     display_name: Gnovi
     gravatar: 
-    email: gnovi103@gmail.com
-    web: http://www.gnovi.in/sample-page/
-    twitter: https://twitter.com/_gnovi
-    description: "Trees of Empressgarden website content and design Contact : 9482543803"
+    email: 
+    web: 
+    twitter: 
+    description: "Trees are poems that the earth writes upon the sky.― Khalil Gibran, Sand and Foam"
   sal:
     name: Sal
     display_name: Sal
