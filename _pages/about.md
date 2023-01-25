@@ -32,7 +32,7 @@ comments: true
 <h5>Project supported by </h5>
 <P> <a target="_blank" href="http://makerspacebgm.in/">Makerspace Belgaum</a></p>
 
-<p>Website content and design by <a target="_blank" href="http://www.gnovi.in/sample-page/">Praveen Patil</a> </p>
+<p>Website content and design by <a target="_blank" href="http://www.gnovi.in/sample-page/">Praveen (Gnovi) </a> </p>
 
 </div>
 </div>
