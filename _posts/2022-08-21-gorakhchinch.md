@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gorakhchinch - African baobab"
+title:  "Gorakhchinch - African Baobab"
 author: 
 categories: [ Angiosperm , Malvaceae]
 image: assets/images/gorakhchinch1.jpg
