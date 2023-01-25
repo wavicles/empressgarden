@@ -15,14 +15,20 @@ permalink: /:title/
 authors:
   Praveen:
     name: Praveen
-    display_name: Praveen
-    gravatar: 
-    email: 
+    display_name: Praveen (Gnovi)
+    gravatar: b597d9fa4f9c0b691c9545f6f36bb7e7
+    email: gnovi103@gmail.com
     web: https://www.gnovi.in
-    twitter: 
-    description: ""
-  john:
-    name: 
+    twitter: https://twitter.com/_gnovi
+    description: "Trees of Empressgarden website content and design Contact : 9482543803"
+  sal:
+    name: Sal
+    display_name: Sal
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net
+    twitter: https://twitter.com/wowthemesnet
+    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
 
 # Plugins
 plugins:
