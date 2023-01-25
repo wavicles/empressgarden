@@ -1,7 +1,7 @@
 ---
 layout: page
 title: References And Credits
-permalink: /about
+permalink: /references
 comments: true
 ---
 
@@ -9,9 +9,13 @@ comments: true
 <div class="col-md-8 pr-5">
 
 	
-		<p>"We would like to acknowledge the following resources that were used in the creation of this website:
-        [List the resources you used, including links, authors, titles, etc.].
-We are grateful for the information and inspiration provided by these sources and have made every effort to properly cite and attribute any quotes or paraphrased information. We hope that this website serves as a valuable resource for our visitors."		</p> 
+<p>"We would like to acknowledge the following resources that were used in the creation of this website:
+1. https://www.wikipedia.org/
+2. https://indiabiodiversity.org/
+3. http://www.flowersofindia.net/
+	And many other creative commons resources.
+	We are grateful for the information and inspiration provided by these sources. 
+	We hope that this website serves as a valuable resource for our visitors.</p> 
 
 
 
