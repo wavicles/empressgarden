@@ -10,9 +10,11 @@ comments: true
 
 	
 <p>"We would like to acknowledge the following resources that were used in the creation of this website:
-1. https://www.wikipedia.org/
-2. https://indiabiodiversity.org/
-3. http://www.flowersofindia.net/
+<ol>
+  <li>https://www.wikipedia.org/</li>
+  <li>https://indiabiodiversity.org/</li>
+  <li>http://www.flowersofindia.net/</li>
+  </ol>
 	And many other creative commons resources.
 	We are grateful for the information and inspiration provided by these sources. 
 	We hope that this website serves as a valuable resource for our visitors.</p> 
