@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Putrajivi - Indian Amulet Tree"
-author: 
+author: Praveen
 categories: [ Angiosperm , Moraceae]
 image: assets/images/putrajivi1.jpeg
 beforetoc: "Drypetes roxburghii"

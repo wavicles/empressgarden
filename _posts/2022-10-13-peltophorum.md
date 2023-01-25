@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Peela Gulmohar - Yellow Flame Tree"
-author: 
+author: Praveen
 categories: [ Angiosperm, Fabaceae ]
 image: assets/images/yellow flame1.jpg
 beforetoc: "Peltophorum pterocarpum"

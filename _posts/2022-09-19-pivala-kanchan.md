@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pivala Kanchan, Yellow Bauhinia"
-author: 
+author: Praveen
 categories: [ Angiosperm , Fabaceae]
 image: assets/images/pivalakanchan1.jpeg
 beforetoc: "Bauhinia tomentosa"

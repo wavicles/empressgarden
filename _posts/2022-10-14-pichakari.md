@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pichakari - African Tulip"
-author: 
+author: Praveen
 categories: [ Angiosperm , Bignoniaceae]
 image: assets/images/putrajivi1.jpeg
 beforetoc: "Spathodea campanulata"

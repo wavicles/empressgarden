@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vilayati Seeta Ashok, Scarlet Flame Bean "
-author: 
+author: Praveen
 categories: [ Angiosperm , 	Fabaceae]
 image: assets/images/vilayati1.jpg
 beforetoc: "Brownea coccinea"

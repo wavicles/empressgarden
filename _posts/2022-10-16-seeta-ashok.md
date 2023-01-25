@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Seeta Ashok"
-author: 
+author: Praveen
 categories: [ Jekyll, tutorial ]
 image: assets/images/tree1a.jpg
 beforetoc: " Saraca Asoca Roxb"

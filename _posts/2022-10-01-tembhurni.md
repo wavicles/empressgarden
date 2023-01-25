@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tembhurni"
-author: 
+author: Praveen
 categories: [ Angiosperm , Ebenaceae ]
 image: assets/images/tembhurni1.jpeg
 beforetoc: "Diospyros malabarica"
