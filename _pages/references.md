@@ -8,6 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
+	<p> This project is inspired by QR code enabled directory of tree species at the botanical Garden of South Konkan Education Society's G S S College, Belgaum </p>
 
 <p>The following team of experts have dedicated their valuable time in creating this resource.
 <ol>
