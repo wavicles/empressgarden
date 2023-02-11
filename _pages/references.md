@@ -8,8 +8,19 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
+
+<p>The following team of experts have dedicated their valuable time in creating this resource.
+<ol>
+  <li>Dr. Shrinath Kavade, Pune</li>
+  <li>Praveen Patil, Belgav</li>
+  <li>Rahul Khanolkar, Belgav/</li>
+  <li>Dr. Rutuja Kolate, Belgav/</li>
 	
-<p>"We would like to acknowledge the following resources that were used in the creation of this website:
+  </ol>
+</p> 	
+	
+	
+<p>We would like to acknowledge the following resources that were used in the creation of this website:
 <ol>
   <li>https://www.wikipedia.org/</li>
   <li>https://indiabiodiversity.org/</li>
