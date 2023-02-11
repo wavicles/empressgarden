@@ -33,6 +33,15 @@ comments: true
 <P> <a target="_blank" href="http://makerspacebgm.in/">Makerspace Belgaum</a></p>
 
 <p>Website content and design by <a target="_blank" href="http://www.gnovi.in/sample-page/">Praveen (Gnovi) </a> </p>
+	<p>The following team of experts have dedicated their valuable time in creating this resource.
+<ol>
+  <li>Dr. Shrinath Kavade, Pune</li>
+  <li>Praveen Patil, Belgav</li>
+  <li>Rahul Khanolkar, Belgav</li>
+  <li>Dr. Rutuja Kolate, Belgav</li>
+	
+  </ol>
+</p> 	
 
 </div>
 </div>
