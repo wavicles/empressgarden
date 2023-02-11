@@ -13,8 +13,8 @@ comments: true
 <ol>
   <li>Dr. Shrinath Kavade, Pune</li>
   <li>Praveen Patil, Belgav</li>
-  <li>Rahul Khanolkar, Belgav/</li>
-  <li>Dr. Rutuja Kolate, Belgav/</li>
+  <li>Rahul Khanolkar, Belgav</li>
+  <li>Dr. Rutuja Kolate, Belgav</li>
 	
   </ol>
 </p> 	
